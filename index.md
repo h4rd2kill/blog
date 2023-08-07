@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog
+title: hard2kill's modest blog
 ---
